@@ -1,0 +1,15 @@
+/Users/douglasherman/Desktop/HackerRank/bin/Debug/net6.0/HackerRank
+/Users/douglasherman/Desktop/HackerRank/bin/Debug/net6.0/HackerRank.deps.json
+/Users/douglasherman/Desktop/HackerRank/bin/Debug/net6.0/HackerRank.runtimeconfig.json
+/Users/douglasherman/Desktop/HackerRank/bin/Debug/net6.0/HackerRank.dll
+/Users/douglasherman/Desktop/HackerRank/bin/Debug/net6.0/HackerRank.pdb
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.csproj.AssemblyReference.cache
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.AssemblyInfoInputs.cache
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.AssemblyInfo.cs
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.csproj.CoreCompileInputs.cache
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.dll
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/refint/HackerRank.dll
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.pdb
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/HackerRank.genruntimeconfig.cache
+/Users/douglasherman/Desktop/HackerRank/obj/Debug/net6.0/ref/HackerRank.dll
